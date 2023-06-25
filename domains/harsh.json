@@ -1,0 +1,11 @@
+{
+    "description": "harshk.is-a.dev domain",
+    "repo": "https://github.com/harshk04/harshk04.github.io",
+    "owner": {
+        "username": "harshk04",
+        "email": "kumawatharsh2004@gmail.com"
+    },
+    "record": {
+        "CNAME": "https://harshk04.github.io/"
+    }
+}
